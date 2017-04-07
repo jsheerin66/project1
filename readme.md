@@ -1,15 +1,6 @@
-<!-- pseudocode -->
 
-<!-- Front end -->
+Chandler = Firebase
+Justin = API
+Pat = Front End  (Semantic)
 
-index html to display header, div for search box, div for weather, div for place
-
-keep id and variable consistent with names make it match
-
-<!-- Firebase -->
-
-log in using anonymous authentication, google sign-in, facebook login
-
-<!-- API -->
-
-page displays 
+long and latitudes got flipped pulling from google places which required me to adjust how the parameters were pulled
