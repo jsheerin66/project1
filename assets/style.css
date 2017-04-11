@@ -22,7 +22,9 @@ canvas {
   display: block;
   clear: both;
 }
-
+#logo {
+  color: white;
+}
 #search {
   opacity: 0.65;
   margin-top: 10px;
