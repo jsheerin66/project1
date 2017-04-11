@@ -1,5 +1,5 @@
 console.log("Hello world!")
-$(document) ready(function() {
+
 
     // var skycons = new Skycons({"color": "black"});
 
@@ -167,5 +167,3 @@ $(document) ready(function() {
             map.fitBounds(bounds);
         });
     }
-
-});
