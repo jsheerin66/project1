@@ -1,6 +1,6 @@
 console.log("Hello world!")
 
-var skycons = new Skycons({"color": "black"});
+// var skycons = new Skycons({"color": "black"});
 
 var dailyWeather = document.getElementsByClassName("dailyWeather");
 console.log(dailyWeather)
@@ -146,7 +146,7 @@ function initAutocomplete() {
                 anchor: new google.maps.Point(17, 34),
                 scaledSize: new google.maps.Size(25, 25)
             };
-            
+
 
             // Create a marker for each place.
             markers.push(new google.maps.Marker({
